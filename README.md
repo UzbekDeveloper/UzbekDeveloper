@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UzbekDeveloper
 - 👀 I’m interested in Front-end
-- 🌱 I’m currently learning React, React Native
-- 💞️ I’m looking to collaborate on React NAtive
+- 🌱 I’m currently learning React Native
+- 💞️ I’m looking to collaborate on React
 - 📫 How to reach me Uzbekprogramist@gmail.com
 
 <!---
