@@ -24,7 +24,7 @@
 
 ## Контакты
 Вы можете связаться со мной через следующие каналы:
-- Email: ваш@email.com
+- Email: uzbekdeveloper@ya.ru
 - LinkedIn: [профиль LinkedIn](https://www.linkedin.com/in/asrorjon-abdulazizov/)
 - Twitter: [@the_FullStack](https://twitter.com/The_FullStack)
 
