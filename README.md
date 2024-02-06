@@ -35,7 +35,7 @@
 - Email: uzbekdeveloper@ya.ru
 - LinkedIn: [профиль LinkedIn](https://www.linkedin.com/in/asrorjon-abdulazizov/)
 - Twitter: [@the_FullStack](https://twitter.com/The_FullStack)
-- Instagram: [@asrorjon_abdulazizov)](https://twitter.com/asrorjon_abdulazizov)
+- Instagram: [@asrorjon_abdulazizov)](https://instagram.com/asrorjon_abdulazizov)
   
 ## Портфолио
 Дополнительные примеры моих проектов и работ вы можете найти в моем прифиле.
