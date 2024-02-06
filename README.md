@@ -33,9 +33,10 @@
 ## Контакты
 Вы можете связаться со мной через следующие каналы:
 - Email: uzbekdeveloper@ya.ru
+- Telegram: [@asrorjon_abdulazizov)](https://telegram.me/asrorjon_abdulazizov) — предпочитаемый способ связи
+- Instagram: [@asrorjon_abdulazizov)](https://instagram.com/asrorjon_abdulazizov)
 - LinkedIn: [профиль LinkedIn](https://www.linkedin.com/in/asrorjon-abdulazizov/)
 - Twitter: [@the_FullStack](https://twitter.com/The_FullStack)
-- Instagram: [@asrorjon_abdulazizov)](https://instagram.com/asrorjon_abdulazizov)
   
 ## Портфолио
 Дополнительные примеры моих проектов и работ вы можете найти в моем прифиле.
